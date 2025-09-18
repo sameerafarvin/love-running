@@ -35,6 +35,18 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+#menu {
+    list-style-type: none;
+    letter-spacing: 4px;
+    font-size: 110%;
+}
+#menu li {
+    margin-bottom: 1em;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /*main content*/
 main {
     background-color: pink;
