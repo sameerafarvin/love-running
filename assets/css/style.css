@@ -24,6 +24,9 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+.hide_heading {
+    display: none;
+}
 /*header*/
 header {
     background-color: #ffffff;
